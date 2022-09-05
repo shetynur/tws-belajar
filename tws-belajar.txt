@@ -1,3 +1,4 @@
 TWS Belajar
 -Membuat forum diskusi
 -Mengecek tugas mahasiswa
+-Membuat latihan-latihan tugas mahasiswa
